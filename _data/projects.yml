@@ -13,21 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Discord Bot
+  descr: "Maintained and updated a Discord bot written in JavaScript (Node.js) for private servers, with functionality in server moderation, general utility, and fun features, like a 'Question of the Day' system. Monitored user feedback and utilization data to adapt to a changing environment. Examples include sunsetting a user points database and isolating music functionality into a separate branch."
+  demo: https://discord.com/api/oauth2/authorize?client_id=426857425157619712&permissions=1556606039&scope=bot
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
+    - tag: JavaScript
     - tag: Node
+    - tag: DiscordJS
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Chrono-Switch
+  descr: "Collaborated with a team of 3 to develop Chrono-Switch, an original 2D platformer game. Leveraged TypeScript and the Wolfie2D game engine to implement unique features such as time-travel mechanics, a grappling hook, and combat against enemies. Successfully designed and executed gameplay levels with challenging puzzles and obstacles, engaging players in a captivating experience."
+  demo: https://chrono-switch.web.app/benchmark2/dist/index.html
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: TypeScript
+    - tag: Wolfie2D
+    
+- name: Fake Stack Overflow
+  descr: "Collaborated with a team to develop a StackOverflow clone that replicated the website's fundamental features. Employed JavaScript, CSS, HTML, React, Express, MongoDB, and Axios to implement functionalities such as browsing and sorting questions by newest/activity, searching, posting and answering questions, and filtering by tags. Successfully designed and implemented a RESTful API to handle requests and responses between the client and server."
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+  tags:
+    - tag: JavaScript
+    - tag: CSS
+    - tag: HTML
+    - tag: React
+    - tag: Express
+    - tag: MongoDB
+    - tag: Axios

@@ -11,26 +11,32 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: Linux
   weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
 
 - name: Chrome DevTools
   weight: 2
 
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
 - name: VS Code
   weight: 3
 
-- name: Postman
+- name: Visual Studio
+  weight: 3
+
+- name: Microsoft Office
+  weight: 5
+
+- name: Adobe Photoshop
   weight: 4
+
+- name: SSMS
+  weight: 2
+
+- name: MySQL
+  weight: 3
+
+- name: SQL Server
+  weight: 2
+
+- name: MongoDB
+  weight: 3
