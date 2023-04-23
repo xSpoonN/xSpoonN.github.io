@@ -14,7 +14,7 @@ $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
 $text-color: #fff !default;
-$bg-color: rgba(43, 45, 47, 1);
+$bg-color: rgb(36, 38, 39);
 $card-bg-color: linear-gradient(
   145deg,
   rgba(88, 88, 88, 0.15) 15%,
@@ -133,7 +133,7 @@ a {
 }
 
 .neumorphism-card-big {
-  box-shadow: 2px 2px 2px #161718, -5px -5px 4px #404346;
+  box-shadow: 1px 1px 1px #161718, -2px -2px 2px #404346;
 }
 
 /* Preloader */
@@ -235,6 +235,7 @@ a {
   margin: 0.5rem;
   padding: 0.5rem;
   text-align: center;
+  justify-content: center;
 }
 
 .landing-title {
