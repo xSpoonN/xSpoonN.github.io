@@ -27,6 +27,7 @@
   tags:
     - tag: TypeScript
     - tag: Wolfie2D
+    - tag: Game Development
     
 - name: Fake Stack Overflow
   descr: "Collaborated with a team to develop a StackOverflow clone that replicated the website's fundamental features. Employed JavaScript, CSS, HTML, React, Express, MongoDB, and Axios to implement functionalities such as browsing and sorting questions by newest/activity, searching, posting and answering questions, and filtering by tags. Successfully designed and implemented a RESTful API to handle requests and responses between the client and server."
@@ -39,3 +40,40 @@
     - tag: Express
     - tag: MongoDB
     - tag: Axios
+
+- name: Roomba Simulation
+  descr: "Collaborated with a team to develop a simulation of a Roomba vacuum cleaner in C++. Leveraged the C++ standard library to implement a 2D grid of rooms, with each room containing a set of dirt particles. Successfully designed and implemented a Roomba class that could move around the grid, clean dirt particles, and return to the charging station using a smart and efficient algorithm. The simulation gives visual feedback of the Roomba's movements and statuses. Later extended the simulator to handle and simulate multiple house input files and multiple algorithms concurrently to compare their efficiency."
+  tags:
+    - tag: C++
+    - tag: Algorithms
+    - tag: Simulation
+    - tag: Concurrency
+
+- name: Exchange Server
+  descr: "Developed a multi-threaded server in C that handles client requests to trade securities. Leveraged low-level POSIX multithreading and socket programming to handle multiple clients concurrently, and implemented a custom protocol to communicate between the server and clients. Successfully designed and implemented custom data structures to store and manage client and security information, with a focus on multithreading safety, cocnurrency guarantees, and efficiency."
+  tags:
+    - tag: C
+    - tag: POSIX
+    - tag: Multithreading
+    - tag: Socket Programming
+
+- name: Stock Trading Website
+  descr: "Collaborated with a team to develop a stock trading website in Java. Leveraged Java Servlets and JSP to implement functionalities such as browsing and sorting stocks by price, searching, buying and selling stocks, and filtering by industries. Wrote the relevant SQL queries to interact with the MySQL database and designed the database schema to store and manage user and stock information."
+  tags:
+    - tag: Java
+    - tag: MySQL
+    - tag: JSP
+
+- name: Press Release
+  descr: "Researched and wrote a press release for a recent world archaeological discovery, the discovery of the oldest known flush toilet in Ancient China."
+  tags:
+    - tag: Press Release
+    - tag: Research
+    - tag: Writing
+
+- name: User Instructions
+  descr: "Researched and wrote user instructions for setting up Visual Studio for C++ development on Windows 10, including how to setup the project, how to compile the project, and how to run it."
+  tags:
+    - tag: User Instructions
+    - tag: Research
+    - tag: Writing
