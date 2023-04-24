@@ -23,14 +23,11 @@
 - name: Java
   weight: 4
 
-- name: C++
+- name: C/C++
   weight: 4
 
 - name: Ruby
   weight: 1
-
-- name: C
-  weight: 2
 
 - name: R
   weight: 1
