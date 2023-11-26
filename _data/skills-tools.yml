@@ -14,9 +14,6 @@
 - name: Linux
   weight: 3
 
-- name: Chrome DevTools
-  weight: 2
-
 - name: VS Code
   weight: 3
 
@@ -40,3 +37,24 @@
 
 - name: MongoDB
   weight: 3
+
+- name: Firebase
+  weight: 2
+
+- naem: Microsoft Azure
+  weight: 3
+
+- name: Unreal Engine
+  weight: 5
+
+- name: Unity
+  weight: 3
+
+- name: DevOps
+  weight: 3
+
+- name: Blender
+  weight: 2
+
+- name: Steamworks
+  weight: 2

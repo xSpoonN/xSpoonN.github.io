@@ -17,11 +17,5 @@
 - name: Express
   weight: 4
 
-- name: Django
-  weight: 1
-
-- name: Rails
-  weight: 1
-
 - name: DiscordJS
   weight: 3

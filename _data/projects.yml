@@ -13,8 +13,30 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Avian Assault
+  descr: "Collaborating with a teammate to develop Avian Assault, an action shooter/defense game where you fend off waves of increasingly powerful enemies while cultivating a windmill farm, which provide energy for useful powerups and new weapons. Using Unreal Engine 5 and C++ to implement unique features such as a windmill farm, a variety of weapons such as a minigun and a laser, powerups such as time dilation and exploding rounds, and a multitude of enemy birds and aliens. Designed and executed two gameplay levels with unique geographical features and enemy placements, engaging players in a unique and challenging fast-paced experience"
+  tags:
+    - tag: Unreal Engine
+    - tag: C++
+    - tag: Game Development
+
+- name: MapStudio
+  descr: "Worked with a group of 4 to implement a web application called MapStudio, a site where users can create and share map graphics. Leveraged JavaScript, CSS, HTML, React, Express, and MongoDB to implement functionalities such as user accounts, creating map graphics, making discussion posts, and other community actions like voting and commenting. Used DevOps CI/CD pipelines on Github Actions to automate testing and deployment to hosting on Firebase and Microsoft Azure."
+  demo: https://mapstudio-cse416.web.app/
+  tags:
+    - tag: JavaScript
+    - tag: CSS
+    - tag: HTML
+    - tag: React
+    - tag: Express
+    - tag: MongoDB
+    - tag: DevOps CI/CD
+    - tag: Azure
+    - tag: Firebase
+    - tag: Testing
+
 - name: Discord Bot
-  descr: "Maintained and updated a Discord bot written in JavaScript (Node.js) for private servers, with functionality in server moderation, general utility, and fun features, like a 'Question of the Day' system. Monitored user feedback and utilization data to adapt to a changing environment. Examples include sunsetting a user points database and isolating music functionality into a separate branch."
+  descr: "Created and maintained a Discord bot written in JavaScript (Node.js) for private servers, with functionality in server moderation, general utility, and fun features, like a 'Question of the Day' system. Monitored user feedback and utilization data to adapt to a changing environment. Examples include sunsetting a user points database and isolating music functionality into a separate branch."
   demo: https://discord.com/api/oauth2/authorize?client_id=426857425157619712&permissions=1556606039&scope=bot
   tags:
     - tag: JavaScript
@@ -22,7 +44,7 @@
     - tag: DiscordJS
 
 - name: Chrono-Switch
-  descr: "Collaborated with a team of 3 to develop Chrono-Switch, an original 2D platformer game. Leveraged TypeScript and the Wolfie2D game engine to implement unique features such as time-travel mechanics, a grappling hook, and combat against enemies. Successfully designed and executed gameplay levels with challenging puzzles and obstacles, engaging players in a captivating experience."
+  descr: "Collaborated with a team of 3 to develop Chrono-Switch, an original 2D platformer game. Leveraged TypeScript and the Wolfie2D game engine to implement unique features such as time-travel mechanics, a grappling hook, and combat against enemies. Successfully designed and executed gameplay levels with challenging puzzles and obstacles."
   demo: https://chrono-switch.web.app/benchmark2/dist/index.html
   tags:
     - tag: TypeScript
@@ -31,7 +53,7 @@
     
 - name: Fake Stack Overflow
   descr: "Collaborated with a team to develop a StackOverflow clone that replicated the website's fundamental features. Employed JavaScript, CSS, HTML, React, Express, MongoDB, and Axios to implement functionalities such as browsing and sorting questions by newest/activity, searching, posting and answering questions, and filtering by tags. Successfully designed and implemented a RESTful API to handle requests and responses between the client and server."
-
+  demo: https://github.com/xSpoonN/cse316-finalproject
   tags:
     - tag: JavaScript
     - tag: CSS
@@ -43,6 +65,7 @@
 
 - name: Roomba Simulation
   descr: "Collaborated with a team to develop a simulation of a Roomba vacuum cleaner in C++. Leveraged the C++ standard library to implement a 2D grid of rooms, with each room containing a set of dirt particles. Successfully designed and implemented a Roomba class that could move around the grid, clean dirt particles, and return to the charging station using a smart and efficient algorithm. The simulation gives visual feedback of the Roomba's movements and statuses. Later extended the simulator to handle and simulate multiple house input files and multiple algorithms concurrently to compare their efficiency."
+  demo: https://github.com/xSpoonN/cse390-hw3
   tags:
     - tag: C++
     - tag: Algorithms
@@ -59,21 +82,8 @@
 
 - name: Stock Trading Website
   descr: "Collaborated with a team to develop a stock trading website in Java. Leveraged Java Servlets and JSP to implement functionalities such as browsing and sorting stocks by price, searching, buying and selling stocks, and filtering by industries. Wrote the relevant SQL queries to interact with the MySQL database and designed the database schema to store and manage user and stock information."
+  demo: https://github.com/xSpoonN/cse305-fall-2022-project
   tags:
     - tag: Java
     - tag: MySQL
     - tag: JSP
-
-- name: Press Release
-  descr: "Researched and wrote a press release for a recent world archaeological discovery, the discovery of the oldest known flush toilet in Ancient China."
-  tags:
-    - tag: Press Release
-    - tag: Research
-    - tag: Writing
-
-- name: User Instructions
-  descr: "Researched and wrote user instructions for setting up Visual Studio for C++ development on Windows 10, including how to setup the project, how to compile the project, and how to run it."
-  tags:
-    - tag: User Instructions
-    - tag: Research
-    - tag: Writing

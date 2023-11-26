@@ -26,6 +26,9 @@
 - name: C/C++
   weight: 4
 
+- name: C#
+  weight: 3
+
 - name: Ruby
   weight: 1
 

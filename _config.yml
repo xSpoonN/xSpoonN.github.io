@@ -21,10 +21,10 @@ email: kevin.tao@stonybrook.edu
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: xSpoonN
-codepen_username: xSpoonN
+codepen_username:
 # dev_username: exampleUser
 linkedin_username: kevin-tao-a34034263
-twitter_username: exampleUser
+twitter_username:
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm Kevin Tao, a highly motivated computer science student at SUNY at Stony Brook, with a focus on full stack web development, software engineering, and data science. With a 3.87 GPA, I'm a recipient of the Stony Brook Foundation Trustee Scholarship and have been accepted into the Computer Science honors program. I have strong problem-solving, analytical, and critical thinking skills and am proficient in a variety of programming languages and tools, including Java, JavaScript, C++, Git, and MySQL, among others. I've completed several impressive projects, including maintaining and enhancing a Discord bot written in JavaScript and implementing a problem solver in C that uses multiple worker processes to concurrently solve computationally intensive problems. I'm a creative, detail-oriented, and effective communicator who thrives in team-oriented environments and is passionate about technology and software development. In my spare time, I love to expand my knowledge of computer science and work on personal coding projects. You can find some of my projects on my <a class="highlight-link" href="https://github.com/xSpoonN" target="_blank" rel="noreferrer">GitHub page</a>.
+about_me_description: I'm Kevin Tao, a highly motivated computer science student at SUNY at Stony Brook, with a focus on full stack web development, software engineering, and game programming. With a 3.86 GPA, I'm a recipient of the Stony Brook Foundation Trustee Scholarship and have been accepted into the Computer Science honors program. I have strong problem-solving, analytical, and critical thinking skills and am proficient in a variety of programming languages and tools, including Java, JavaScript, C++, Git, and MySQL, among many others. I've completed several projects, including creating and maintaining a Discord bot written in JavaScript and implementing a website mimicing Stack Overflow, complete with functionality for user accounts, posting discussions, and commenting. I'm a creative, detail-oriented, and effective communicator who thrives in team-oriented environments and is passionate about technology and software development. In my spare time, I love to expand my knowledge of computer science and work on personal coding projects. You can find some of my projects on my <a class="highlight-link" href="https://github.com/xSpoonN" target="_blank" rel="noreferrer">GitHub page</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.dropbox.com/s/tzt8ji0di9r4xnd/Kevin%20Tao%20Resume.docx?dl=0
+cv_download_link: https://www.dropbox.com/scl/fi/sh5nz5yhs2i4b37ks9wqt/Kevin-Tao-Resume.pdf?rlkey=ah9q46zie7y9hu0zllx1uprpn&dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
