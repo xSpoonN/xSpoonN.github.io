@@ -13,14 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Avian Assault
-  descr: "Collaborating with a teammate to develop Avian Assault, an action shooter/defense game where you fend off waves of increasingly powerful enemies while cultivating a windmill farm, which provide energy for useful powerups and new weapons. Using Unreal Engine 5 and C++ to implement unique features such as a windmill farm, a variety of weapons such as a minigun and a laser, powerups such as time dilation and exploding rounds, and a multitude of enemy birds and aliens. Designed and executed two gameplay levels with unique geographical features and enemy placements, engaging players in a unique and challenging fast-paced experience"
+- name: Avian Assault - In Progress
+  descr: "Collaborated with a teammate to develop Avian Assault, an action shooter/defense game where you fend off waves of increasingly powerful enemies while cultivating a windmill farm, which provide energy for useful powerups and new weapons. Used Unreal Engine 5 and C++ to implement unique features such as a windmill farm, a variety of weapons such as a minigun and a laser, powerups such as time dilation and exploding rounds, and a multitude of enemy birds and aliens. Designed and executed two gameplay levels with unique geographical features and enemy placements, engaging players in a unique and challenging fast-paced experience"
   tags:
     - tag: Unreal Engine
     - tag: C++
     - tag: Game Development
 
-- name: MapStudio
+- name: MapStudio - In Progress
   descr: "Worked with a group of 4 to implement a web application called MapStudio, a site where users can create and share map graphics. Leveraged JavaScript, CSS, HTML, React, Express, and MongoDB to implement functionalities such as user accounts, creating map graphics, making discussion posts, and other community actions like voting and commenting. Used DevOps CI/CD pipelines on Github Actions to automate testing and deployment to hosting on Firebase and Microsoft Azure."
   demo: https://mapstudio-cse416.web.app/
   tags:
