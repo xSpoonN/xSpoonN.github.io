@@ -43,3 +43,18 @@
 
 - name: SQL
   weight: 3
+
+- name: PHP
+  weight: 1
+
+- name: SASS
+  weight: 2
+
+- name: EJS
+  weight: 2
+
+- name: JQuery
+  weight: 2
+
+- name: MIPS ASM
+  weight: 1

@@ -19,3 +19,24 @@
 
 - name: DiscordJS
   weight: 3
+
+- name: LeafletJS
+  weight: 2
+
+- name: PyTorch
+  weight: 2
+
+- name: NumPy
+  weight: 2
+
+- name: Pandas
+  weight: 2
+
+- name: Matplotlib
+  weight: 2
+
+- name: BackboneJS
+  weight: 1
+
+- name: Vulkan
+  weight: 1

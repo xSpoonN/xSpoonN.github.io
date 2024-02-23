@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Feel free to get in touch with me for any inquiries or opportunities. You can reach me by phone at (516)-304-6843 or by email at <a href="mailto:kt4cty@gmail.com">kt4cty@gmail.com</a> and <a href="mailto:kevin.tao@stonybrook.edu">kevin.tao@stonybrook.edu</a>. You can also connect with me on <a class="highlight-link" href="linkedin.com/in/kevin-tao-a34034263/" target="_blank" rel="noreferrer">LinkedIn</a> or check out my projects on <a class="highlight-link" href="https://github.com/xSpoonN" target="_blank" rel="noreferrer">Github</a>. I look forward to hearing from you!
+contact_description: Feel free to get in touch with me for any inquiries or opportunities. You can reach me by phone at (516)-304-6843 or by email at <a href="mailto:kt4cty@gmail.com">kt4cty@gmail.com</a> (preferred) and <a href="mailto:kevin.tao@stonybrook.edu">kevin.tao@stonybrook.edu</a>. You can also connect with me on <a class="highlight-link" href="linkedin.com/in/kevin-tao-a34034263/" target="_blank" rel="noreferrer">LinkedIn</a> or check out my projects on <a class="highlight-link" href="https://github.com/xSpoonN" target="_blank" rel="noreferrer">Github</a>. I look forward to hearing from you!
 
 # GITHUB-METADATA
 # Set this to your forked repository

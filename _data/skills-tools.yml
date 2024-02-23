@@ -58,3 +58,9 @@
 
 - name: Steamworks
   weight: 2
+
+- name: Linux
+  weight: 2
+
+- name: Docker
+  weight: 2
