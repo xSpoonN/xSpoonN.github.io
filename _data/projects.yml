@@ -22,7 +22,7 @@
 - name: MapStudio
   descr: "Worked with a group of 4 to implement a web application called MapStudio, a site where users can create and share map graphics. Leveraged JavaScript, CSS, HTML, React, Express, and MongoDB to implement functionalities such as user accounts, creating map graphics, making discussion posts, and other community actions like voting and commenting. Used DevOps CI/CD pipelines on Github Actions to automate testing and deployment to hosting on Firebase and Microsoft Azure."
   demo: https://mapstudio-cse416.web.app/
-  code: https://github.com/xSpoonN/mapstudio
+  repo: https://github.com/xSpoonN/mapstudio
   tags:
     - tag: JavaScript
     - tag: CSS
@@ -38,7 +38,7 @@
 - name: Discord Bot
   descr: "Created and maintained a Discord bot written in JavaScript (Node.js) for private servers, with functionality in server moderation, general utility, and fun features, like a 'Question of the Day' system. Monitored user feedback and utilization data to adapt to a changing environment. Examples include sunsetting a user points database and isolating music functionality into a separate branch."
   demo: https://discord.com/api/oauth2/authorize?client_id=426857425157619712&permissions=1556606039&scope=bot
-  code: https://github.com/xSpoonN/spoonbot
+  repo: https://github.com/xSpoonN/spoonbot
   tags:
     - tag: JavaScript
     - tag: Node
@@ -47,7 +47,7 @@
 - name: Chrono-Switch
   descr: "Collaborated with a team of 3 to develop Chrono-Switch, an original 2D platformer game. Leveraged TypeScript and the Wolfie2D game engine to implement unique features such as time-travel mechanics, a grappling hook, and combat against enemies. Successfully designed and executed gameplay levels with challenging puzzles and obstacles."
   demo: https://chrono-switch.web.app/benchmark2/dist/index.html
-  code: https://github.com/xSpoonN/chronoshift
+  repo: https://github.com/xSpoonN/chronoshift
   tags:
     - tag: TypeScript
     - tag: Wolfie2D
@@ -56,7 +56,7 @@
 - name: Fake Stack Overflow
   descr: "Collaborated with a team to develop a StackOverflow clone that replicated the website's fundamental features. Employed JavaScript, CSS, HTML, React, Express, MongoDB, and Axios to implement functionalities such as browsing and sorting questions by newest/activity, searching, posting and answering questions, and filtering by tags. Successfully designed and implemented a RESTful API to handle requests and responses between the client and server."
   demo: https://github.com/xSpoonN/cse316-finalproject
-  code: https://github.com/xSpoonN/cse316-finalproject
+  repo: https://github.com/xSpoonN/cse316-finalproject
   tags:
     - tag: JavaScript
     - tag: CSS
@@ -68,7 +68,7 @@
 
 - name: Roomba Simulation
   descr: "Collaborated with a team to develop a simulation of a Roomba vacuum cleaner in C++. Leveraged the C++ standard library to implement a 2D grid of rooms, with each room containing a set of dirt particles. Successfully designed and implemented a Roomba class that could move around the grid, clean dirt particles, and return to the charging station using a smart and efficient algorithm. The simulation gives visual feedback of the Roomba's movements and statuses. Later extended the simulator to handle and simulate multiple house input files and multiple algorithms concurrently to compare their efficiency."
-  code: https://github.com/xSpoonN/cse390-hw3
+  repo: https://github.com/xSpoonN/cse390-hw3
   tags:
     - tag: C++
     - tag: Algorithms
@@ -85,7 +85,7 @@
 
 - name: Stock Trading Website
   descr: "Collaborated with a team to develop a stock trading website in Java. Leveraged Java Servlets and JSP to implement functionalities such as browsing and sorting stocks by price, searching, buying and selling stocks, and filtering by industries. Wrote the relevant SQL queries to interact with the MySQL database and designed the database schema to store and manage user and stock information."
-  code: https://github.com/xSpoonN/cse305-fall-2022-project
+  repo: https://github.com/xSpoonN/cse305-fall-2022-project
   tags:
     - tag: Java
     - tag: MySQL
