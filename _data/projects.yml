@@ -12,6 +12,18 @@
     - tag: JQuery
     - tag: BackboneJS
 
+- name: Google Maps Clone - In Progress
+  descr: "Collaborated with a partner to develop a Google Maps clone using React (Next.js), LeafletJS, and the OpenStreetMap API. Implemented functionalities such as searching for locations, viewing and interacting with the map, and routing between locations. Data is fetched from OpenStreetMap, stored in a PostgreSQL/PostGIS database for geospatial queries, and served/rendered to the client over a RESTful API. Used Docker and Docker Compose to containerize the application and its dependencies for easy deployment and scaling."
+  tags:
+    - tag: React
+    - tag: Next.js
+    - tag: Leaflet
+    - tag: OpenStreetMap
+    - tag: PostgreSQL
+    - tag: PostGIS
+    - tag: Docker
+    - tag: Docker Compose
+    
 - name: Avian Assault - In Progress
   descr: "Collaborated with a teammate to develop Avian Assault, an action shooter/defense game where players fend off waves of increasingly powerful enemies while cultivating a windmill farm, which provide energy for useful powerups and new weapons. Used Unreal Engine 5 and C++ to implement unique features such as a windmill farm, a variety of weapons such as a minigun and a laser, powerups such as time dilation and exploding rounds, and a multitude of enemy birds and aliens. Designed and executed two gameplay levels with unique geographical features and enemy placements, engaging players in a unique and challenging fast-paced experience"
   tags:
