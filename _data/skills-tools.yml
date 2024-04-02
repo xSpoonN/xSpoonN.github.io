@@ -35,6 +35,9 @@
 - name: SQL Server
   weight: 2
 
+- name: PostgreSQL
+  weight: 1
+
 - name: MongoDB
   weight: 3
 
@@ -64,3 +67,6 @@
 
 - name: Docker
   weight: 2
+
+- name: Elasticsearch
+  weight: 1

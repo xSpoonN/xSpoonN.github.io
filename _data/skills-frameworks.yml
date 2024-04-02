@@ -40,3 +40,6 @@
 
 - name: Vulkan
   weight: 1
+
+- name: TailwindCSS
+  weight: 2
